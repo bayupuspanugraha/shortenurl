@@ -7,6 +7,7 @@ This project focused on how to create simple API which allowing user to shorten 
 
 - [Javascript](./js)
 - [Golang](./go)
+- [CSharp](./csharp)
 
 # License
 
