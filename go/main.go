@@ -184,5 +184,5 @@ func main() {
 	router.POST("/shortenurl", shortenURLHandler)
 	router.GET("/info", infoHandler)
 
-	log.Fatal(http.ListenAndServe(":4545", router))
+	log.Fatal(http.ListenAndServe(port, router))
 }
