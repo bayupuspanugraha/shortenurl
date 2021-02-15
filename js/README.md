@@ -5,7 +5,18 @@
 - Sqllite3 - [Download](https://www.npmjs.com/package/sqlite3)
 - Nanoid - [Download](https://www.npmjs.com/package/nanoid)
 
-<br>
+# How To Run
+
+```
+#Download all dependency first
+npm install
+
+#Run app
+node ./index.js
+#OR
+npm run start
+
+```
 
 # License
 
