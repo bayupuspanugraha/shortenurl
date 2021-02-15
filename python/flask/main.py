@@ -78,7 +78,7 @@ def shortenurl():
     if request.method == "POST":
         req = request.json
 
-        if req == None or not 'url' in req:
+        if not 'url' in req or req == None or req == '':
             return make_response(jsonify({'message': 'BAD-REQUEST'}), 400)
 
         url = req['url']
