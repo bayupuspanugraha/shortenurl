@@ -1,7 +1,7 @@
 # Technology Used
 
 -   Php - [Download](https://www.php.net/downloads.php)
--   Laravel - [Downlaoad](https://laravel.com/docs/8.x#installation-via-composer)
+-   Laravel - [Download](https://laravel.com/docs/8.x#installation-via-composer)
 -   Composer - [Download](https://getcomposer.org/download/)
 -   Nanoid-php - [Download](https://github.com/hidehalo/nanoid-php)
 
