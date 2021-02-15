@@ -20,7 +20,7 @@ php artisan serve --port=4545
 
 # License
 
-[MIT](../../LICENSE)
+[MIT](../LICENSE)
 
 # Love it and want to buy me a coffee?
 
