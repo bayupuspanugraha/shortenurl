@@ -12,7 +12,7 @@
 go get -v ./...
 
 #Run app
-go run main.go
+go run .
 
 ```
 

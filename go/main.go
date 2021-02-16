@@ -184,5 +184,7 @@ func main() {
 	router.POST("/shortenurl", shortenURLHandler)
 	router.GET("/info", infoHandler)
 
+	log.Println("App is up and running on : ", baseURL)
+	fmt.Println("Press CTRL+C to exit")
 	log.Fatal(http.ListenAndServe(port, router))
 }
